@@ -1,0 +1,47 @@
+Added Component: Designator=U4(MODULE_ESP32-C3-WROOM-02-H4)
+Add component (AddParameter): Name = "Datasheet"; Value = "https://www.espressif.com/sites/default/files/documentation/esp32-c3-wroom-02_datasheet_en.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ki_description"; Value = "ESP32-C3-WROOM-02 is a general-purpose Wi-Fi and Bluetooth LE module. This module features a rich set of peripherals and high performance, which makes it an ideal choice for smart home, industrial automation, health care, consumer electronics, etc."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ki_keywords"; Value = "esp32-c3 module"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Reference"; Value = "U"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "ESP32-C3-WROOM-02"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=U4-0
+Added Pin To Net: NetName=GND Pin=U4-0
+Added Pin To Net: NetName=GND Pin=U4-0
+Added Pin To Net: NetName=GND Pin=U4-0
+Added Pin To Net: NetName=GND Pin=U4-0
+Added Pin To Net: NetName=GND Pin=U4-0
+Added Pin To Net: NetName=GND Pin=U4-0
+Added Pin To Net: NetName=GND Pin=U4-0
+Added Pin To Net: NetName=GND Pin=U4-0
+Added Pin To Net: NetName=GND Pin=U4-0
+Added Pin To Net: NetName=GND Pin=U4-0
+Added Pin To Net: NetName=GND Pin=U4-0
+Added Pin To Net: NetName=GND Pin=U4-0
+Added Pin To Net: NetName=GND Pin=U4-0
+Added Pin To Net: NetName=GND Pin=U4-0
+Added Pin To Net: NetName=GND Pin=U4-0
+Added Pin To Net: NetName=GND Pin=U4-0
+Added Pin To Net: NetName=GND Pin=U4-0
+Added Pin To Net: NetName=GND Pin=U4-0
+Added Pin To Net: NetName=GND Pin=U4-0
+Added Pin To Net: NetName=GND Pin=U4-0
+Added Pin To Net: NetName=+3.3 Pin=U4-1
+Added Pin To Net: NetName=NetC10_1 Pin=U4-2
+Added Pin To Net: NetName=NetJ4_1 Pin=U4-3
+Added Pin To Net: NetName=NetJ4_2 Pin=U4-4
+Added Pin To Net: NetName=NetJ9_0 Pin=U4-5
+Added Pin To Net: NetName=NetJ9_1 Pin=U4-6
+Added Pin To Net: NetName=NetJ4_3 Pin=U4-7
+Added Pin To Net: NetName=NetJ4_4 Pin=U4-8
+Added Pin To Net: NetName=NetJ4_5 Pin=U4-10
+Added Pin To Net: NetName=NetJ5_5 Pin=U4-11
+Added Pin To Net: NetName=NetJ5_4 Pin=U4-12
+Added Pin To Net: NetName=NetJ3_2 Pin=U4-13
+Added Pin To Net: NetName=NetJ3_3 Pin=U4-14
+Added Pin To Net: NetName=NetJ5_3 Pin=U4-15
+Added Pin To Net: NetName=NetJ5_2 Pin=U4-16
+Added Pin To Net: NetName=NetJ5_1 Pin=U4-17
+Added Pin To Net: NetName=NetJ5_0 Pin=U4-18
+Add Pin To Net: Unknown Pin: Pin U4-19
+Added Member To Class: ClassName=NodeController Member=Component U4 ESP32-C3-WROOM-02

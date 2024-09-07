@@ -1,0 +1,8 @@
+Change Net Name : Old Net Name=CAN_H New Net Name=CAN_H_P
+Change Net Name : Old Net Name=CAN_L New Net Name=CAN_L_N
+Change Net Name : Old Net Name=USB D+ New Net Name=USB D_P
+Change Net Name : Old Net Name=USB D- New Net Name=USB D_N
+Add Differential Pair: Number of nets in differential pair CAN_H is 1 instead of 2
+Add Differential Pair: Number of nets in differential pair CAN_L is 1 instead of 2
+Added Differential Pair: Name=USB D
+Added Member To Class: ClassName=NodeController Member=Component U4 ESP32-C3-WROOM-02

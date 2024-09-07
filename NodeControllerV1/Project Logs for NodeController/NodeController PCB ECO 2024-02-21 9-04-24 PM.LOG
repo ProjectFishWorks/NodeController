@@ -1,0 +1,13 @@
+Added Component: Designator=D1(LED-1206)
+Added Component: Designator=D2(LED-1206)
+Added Component: Designator=D3(LED-1206)
+Add Pin To Net: Unknown Pin: Pin D1-A
+Add Pin To Net: Unknown Pin: Pin D1-K
+Add Pin To Net: Unknown Pin: Pin D2-A
+Add Pin To Net: Unknown Pin: Pin D2-K
+Add Pin To Net: Unknown Pin: Pin D3-A
+Add Pin To Net: Unknown Pin: Pin D3-K
+Add Pin To Net: Unknown Pin: Pin U4-0
+Added Member To Class: ClassName=NodeController Member=Component D1 LED
+Added Member To Class: ClassName=NodeController Member=Component D2 LED
+Added Member To Class: ClassName=NodeController Member=Component D3 LED

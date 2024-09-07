@@ -1,0 +1,9 @@
+Add Pin To Net: Unknown Pin: Pin J3-S1
+Add Pin To Net: Unknown Pin: Pin J3-S2
+Add Pin To Net: Unknown Pin: Pin J3-S3
+Add Pin To Net: Unknown Pin: Pin J3-S4
+Add Pin To Net: Unknown Pin: Pin J3-S5
+Add Pin To Net: Unknown Pin: Pin J3-S6
+Change Net Name : Old Net Name=CAN H_P New Net Name=CAN_P
+Change Net Name : Old Net Name=CAN L_N New Net Name=CAN_N
+Added Differential Pair: Name=CAN

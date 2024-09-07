@@ -1,0 +1,57 @@
+Protel Design System Design Rule Check
+PCB File : C:\Users\sebas\git\ProjectFishWorks-Node-Controller-Hardware\ProjectFishWorks-Node-Controller-Hardware\PCB\NodeController\NodeController.PcbDoc
+Date     : 2024-05-12
+Time     : 5:09:42 PM
+
+Processing Rule : Clearance Constraint (Gap=0.127mm) (All),(All)
+   Violation between Clearance Constraint: (Collision < 0.127mm) Between Pad J3-10(1.524mm,13.298mm) on Top Layer And Track (1.27mm,7.239mm)(1.27mm,43.815mm) on Keep-Out Layer 
+   Violation between Clearance Constraint: (Collision < 0.127mm) Between Pad J3-11(1.524mm,11.048mm) on Top Layer And Track (1.27mm,7.239mm)(1.27mm,43.815mm) on Keep-Out Layer 
+   Violation between Clearance Constraint: (Collision < 0.127mm) Between Pad J3-6(1.524mm,15.748mm) on Multi-Layer And Track (1.27mm,7.239mm)(1.27mm,43.815mm) on Keep-Out Layer 
+   Violation between Clearance Constraint: (Collision < 0.127mm) Between Pad J3-7(1.524mm,8.598mm) on Multi-Layer And Track (1.27mm,7.239mm)(1.27mm,43.815mm) on Keep-Out Layer 
+   Violation between Clearance Constraint: (0.126mm < 0.127mm) Between Pad J3-9(3.754mm,9.853mm) on Top Layer And Track (4.064mm,10.862mm)(4.118mm,10.808mm) on Top Layer 
+   Violation between Clearance Constraint: (0.126mm < 0.127mm) Between Pad J3-9(3.754mm,9.853mm) on Top Layer And Track (4.118mm,10.808mm)(4.94mm,10.808mm) on Top Layer 
+Rule Violations :6
+
+Processing Rule : Short-Circuit Constraint (Allowed=No) (All),(All)
+Rule Violations :0
+
+Processing Rule : Un-Routed Net Constraint ( (All) )
+Rule Violations :0
+
+Processing Rule : Modified Polygon (Allow modified: No), (Allow shelved: No)
+Rule Violations :0
+
+Processing Rule : Width Constraint (Min=0.254mm) (Max=0.508mm) (Preferred=0.508mm) (InNetClass('Power'))
+Rule Violations :0
+
+Processing Rule : Width Constraint (Min=0.254mm) (Max=0.508mm) (Preferred=0.254mm) (InNetClass('All Nets'))
+Rule Violations :0
+
+Processing Rule : Power Plane Connect Rule(Relief Connect )(Expansion=0.508mm) (Conductor Width=0.254mm) (Air Gap=0.254mm) (Entries=4) (All)
+Rule Violations :0
+
+Processing Rule : Hole Size Constraint (Min=0.025mm) (Max=6.3mm) (All)
+Rule Violations :0
+
+Processing Rule : Hole To Hole Clearance (Gap=0.254mm) (All),(All)
+Rule Violations :0
+
+Processing Rule : Minimum Solder Mask Sliver (Gap=0.08mm) (All),(All)
+Rule Violations :0
+
+Processing Rule : Silk To Solder Mask (Clearance=0.15mm) (IsPad),(All)
+Rule Violations :0
+
+Processing Rule : Silk to Silk (Clearance=0.15mm) (All),(All)
+Rule Violations :0
+
+Processing Rule : Net Antennae (Tolerance=0mm) (All)
+Rule Violations :0
+
+Processing Rule : Height Constraint (Min=0mm) (Max=25.4mm) (Prefered=12.7mm) (All)
+Rule Violations :0
+
+
+Violations Detected : 6
+Waived Violations : 0
+Time Elapsed        : 00:00:01

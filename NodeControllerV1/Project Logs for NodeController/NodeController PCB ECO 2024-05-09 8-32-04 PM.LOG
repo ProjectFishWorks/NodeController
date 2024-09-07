@@ -1,0 +1,10 @@
+Add Pin To Net: Unknown Pin: Pin J3-S1
+Add Pin To Net: Unknown Pin: Pin J3-S2
+Add Pin To Net: Unknown Pin: Pin J3-S3
+Add Pin To Net: Unknown Pin: Pin J3-S4
+Add Pin To Net: Unknown Pin: Pin J3-S5
+Add Pin To Net: Unknown Pin: Pin J3-S6
+Change Net Name : Old Net Name=CAN_H_P New Net Name=CAN H_P
+Change Net Name : Old Net Name=CAN_L_N New Net Name=CAN L_N
+Add Differential Pair: Number of nets in differential pair CAN H is 1 instead of 2
+Add Differential Pair: Number of nets in differential pair CAN L is 1 instead of 2
