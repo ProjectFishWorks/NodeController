@@ -43,7 +43,7 @@ static const twai_timing_config_t t_config = TWAI_TIMING_CONFIG_25KBITS();
 //Filter all other IDs except MSG_ID
 twai_filter_config_t f_config = TWAI_FILTER_CONFIG_ACCEPT_ALL();
 //Set to NO_ACK mode due to self testing with single module
-static const twai_general_config_t g_config = TWAI_GENERAL_CONFIG_DEFAULT((gpio_num_t)7, (gpio_num_t)6, TWAI_MODE_NO_ACK);
+static const twai_general_config_t g_config = TWAI_GENERAL_CONFIG_DEFAULT((gpio_num_t)6, (gpio_num_t)7, TWAI_MODE_NO_ACK);
 
 static SemaphoreHandle_t tx_sem;
 static SemaphoreHandle_t rx_sem;

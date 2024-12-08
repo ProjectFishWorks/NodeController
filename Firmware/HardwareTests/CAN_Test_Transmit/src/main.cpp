@@ -29,8 +29,8 @@
 #include "Arduino.h"
 
 // Pins used to connect to CAN bus transceiver:
-#define RX_PIN 1
-#define TX_PIN 0
+#define RX_PIN 38
+#define TX_PIN 39
 //#define RX_PIN 27
 //#define TX_PIN 26
 
@@ -66,6 +66,9 @@ static void send_message() {
 void setup() {
   // Start Serial:
   Serial.begin(115200);
+
+  pinMode(11, OUTPUT);
+  digitalWrite(11, HIGH);
 
   // Initialize configuration structures using macro initializers
   twai_general_config_t g_config = TWAI_GENERAL_CONFIG_DEFAULT((gpio_num_t)TX_PIN, (gpio_num_t)RX_PIN, TWAI_MODE_NORMAL);
